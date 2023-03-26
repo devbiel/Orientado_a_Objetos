@@ -2,7 +2,7 @@
 
 #### Conceitos de rogramção orientado a objetos através da linguagem C#
 
-<p>Aqui foi ensinado alguns paradigmas da POO</p>
+<p>Aqui foi ensinado alguns paradigmas da POO.</p>
 
 Sendo eles:
 
