@@ -2,7 +2,7 @@
 
 #### Conceitos de rogramção orientado a objetos através da linguagem C#
 
-<p>Nessa aula podemos utilizar vários métodos com o mesmo nome, desde que os parâmetros sejam diferente entre eles.</p>
+<p>Nessa aula podemos utilizar vários métodos com o mesmo nome, desde que os parâmetros sejam diferente entre eles..</p>
 
 ##### Exemplo:
 
