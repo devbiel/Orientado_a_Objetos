@@ -12,3 +12,13 @@ Sendo eles:
 - Atributos
 - Metódos
 - Objetos
+
+#### Modificadores de acesso
+
+<p>Os modificadores de acessão basicamente o nível de proteção de um atributo, que pode ser acessível pelas classes.</p>
+
+Sendo eles:
+
+- Public -> Os atríbutos e métodos são acessíveis a todas as classes.
+-  Private -> Os atríbutos e métodos são acessíveis apenas a classe que foi criado.
+- Protected -> Os atrúbutos e métodos são acessíveis na classe que foi criado e herdados.
